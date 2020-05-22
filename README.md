@@ -1,2 +1,2 @@
 # web
- ecommerce admin panel
+ e commerce web layout with backend
